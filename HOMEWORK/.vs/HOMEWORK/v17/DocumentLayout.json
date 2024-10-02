@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\HOMEWORK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001D9C09-706C-4D64-B410-3226EE6D56B8}|HOMEWORK\\HOMEWORK.vcxproj|C:\\Users\\USER\\source\\repos\\HOMEWORK\\HOMEWORK\\2.21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{001D9C09-706C-4D64-B410-3226EE6D56B8}|HOMEWORK\\HOMEWORK.vcxproj|solutionrelative:HOMEWORK\\2.21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.21.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\HOMEWORK\\HOMEWORK\\2.21.cpp",
+              "RelativeDocumentMoniker": "HOMEWORK\\2.21.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\HOMEWORK\\HOMEWORK\\2.21.cpp",
+              "RelativeToolTip": "HOMEWORK\\2.21.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T13:53:50.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
